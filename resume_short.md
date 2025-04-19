@@ -3,7 +3,6 @@ title: "Holbert Resume"
 author: "Richard L Holbert"
 firstname: "Richard L"
 lastname: "Holbert"
-sid: "o702667"
 email: "richard.l.holbert@jpmchase.com"
 mailto: "[Richard L Holbert](rholbert@gmail.com)"
 phone: "+1-614-582-7891"
@@ -46,7 +45,7 @@ Design, Specification of Software Systems and Software Engineering Concepts.
 | Assembly Languages: Sparc, MIPS, 6502, 8080, Z80 and 80x86
 | Amateur Radio: Extra Class License WC8Q
 
-# Experience
+### Experience
 
 | **Cyber Security Engineer III** | **JPMorgan Chase** | Columbus, OH | Sep 2018 -- Mar 2025
 
@@ -71,10 +70,9 @@ Design, Specification of Software Systems and Software Engineering Concepts.
 
 **(Previous Experience Omitted for Brevity)**
 
-# Projects and Presentations
+### Projects and Presentations
 
 | "[pyPERM-DecistionTree Decsion Tree Builder](https://github.com/buckeye43210/pyPERM-DecisionTree)," Open Source Project (Apr 2025)
-| "[Shift-Left Testing Using Molecule and Podman](https://confluence.prod.aws.jpmchase.net/confluence/pages/viewpage.action?pageId=3646876384)," AutoM8 User Group (Mar 2024)
 | "[Configuring Perdition Proxy Using an Existing LDAP Server](http://horms.net/projects/perdition/docs/perdition_ldap.pdf)," Mail Retrieval Proxy (May 2003)
 | “[Avoiding Type 3 Bitmap Fonts in PDFs](http://www.free-soft.org/FSM/english/issue03/rick.pdf),” Free Software Magazine (Mar 2002)
 | “[Micro Publishing](http://conferences.oreillynet.com/cs/os2001/view/e_sess/1483),” O’Reilly Open Source Software Convention (Jul 2001)
