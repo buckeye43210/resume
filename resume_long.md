@@ -46,7 +46,7 @@ Design, Specification of Software Systems and Software Engineering Concepts.
 | Assembly Languages: Sparc, MIPS, 6502, 8080, Z80 and 80x86
 | Amateur Radio: Extra Class License WC8Q
 
-# Experience
+### Experience
 
 | **Cyber Security Engineer III** | **JPMorgan Chase** | Columbus, OH | Sep 2018 -- Mar 2025
 
@@ -132,7 +132,7 @@ Design, Specification of Software Systems and Software Engineering Concepts.
 
 * Additional Duty -- Computer Admin support for Base Safety Office.
 
-# Projects and Publications
+### Projects and Publications
 
 | "[pyPERM-DecistionTree Decsion Tree Builder](https://github.com/buckeye43210/pyPERM-DecisionTree)," Open Source Project (Apr 2025)
 | "[Configuring Perdition Proxy Using an Existing LDAP Server](http://horms.net/projects/perdition/docs/perdition_ldap.pdf)," Mail Retrieval Proxy (May 2003)
