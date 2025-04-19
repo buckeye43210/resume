@@ -9,8 +9,6 @@ phone: "+1-614-582-7891"
 street: "10430 Highland Manor Dr, Floor 03"
 citystate: "Tampa, FL 33610-9128"
 border01: "true"
-border02: "true"
-border03: "true"
 qrcode: "true"
 ---
 
