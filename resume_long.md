@@ -20,13 +20,13 @@ qrcode: "true"
 
 \vspace{10pt}
 
-**Summary**
+### Summary
 
 Highly motivated Cyber Security professional with extensive experience in Software and Cyber Engineering.
 Proven ability to leverage technical expertise in a team-oriented environment to achieve security objectives.
 Skilled in a wide range of programming languages, operating systems, networking protocols and Cyber Security Tools.
 
-**Education**
+### Education
 
 | United States Air Force Academy, Colorado Springs, CO
 | B.S. in Engineering
@@ -36,7 +36,7 @@ Computer Architecture, Data Structures, Discrete Mathematics, Logic, Cryptograph
 Software Verification and Validation, Software Generation and Maintenance, Principles and Application of Software
 Design, Specification of Software Systems and Software Engineering Concepts.
 
-**Special Skills**
+### Special Skills
 
 | DevOps/Agile: Ansible, Jira, Bitbucket, GitHub, Kanban, Mindmaps, Decsion Tree Construction and Scrums
 | Programming Languages: ALGOL, Bash, Java, Python3, Jython, PHP, C, C++, FORTRAN, BASIC and Ada
@@ -129,7 +129,7 @@ Design, Specification of Software Systems and Software Engineering Concepts.
 
 | **Student Pilot**  | **14th Flying Training Wing** |  Columbus AFB, MS | Aug 1982 - Feb 1983
 
-* Additional Duty -- Computer Admin support for Base Safety Office.
+* Additional Duty -- Base Safety Office Computer Admin Support.
 
 ### Projects and Publications
 
