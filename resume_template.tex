@@ -1,0 +1,80 @@
+\documentclass[10pt,oneside,letterpaper]{article}
+%\usepackage[latin9]{inputenc}
+\usepackage{geometry}
+\geometry{top=0.78in,bottom=0.5in,left=0.7in,right=0.65in}
+%\geometry{showframe}
+%\usepackage{latexsym}
+\usepackage[unicode=true,
+ bookmarks=true,
+ bookmarksnumbered=false,
+ bookmarksopen=false,
+ breaklinks=false,
+ pdfborder={0 0 0},
+ backref=false,
+ colorlinks=true]
+ {hyperref}
+\hypersetup{pdftitle={$title$},
+ pdfauthor={$author$},
+ linkcolor=blue, urlcolor=blue}
+
+\usepackage{amssymb}
+\usepackage[table]{xcolor}
+\usepackage{longtable,booktabs}
+\usepackage{eso-pic,graphicx}
+\usepackage{color}
+\usepackage{pst-barcode}
+\usepackage{xunicode}
+\usepackage[compact]{titlesec}
+%\titlespacing*{\section}{0pt}{1.1\baselineskip}{\baselineskip}
+\titlespacing{\section}{0pt}{*0}{*0}
+\titlespacing{\subsection}{0pt}{*0}{*0}
+\titlespacing{\subsubsection}{0pt}{*0}{*0}
+
+\setlength{\parskip}{\smallskipamount}
+\setlength{\parindent}{0em}
+
+\setcounter{secnumdepth}{0}
+
+%\renewcommand{\familydefault}{\sfdefault}
+
+\def\tightlist{}
+
+\makeatletter
+%%%%%%%%%%%%%
+\makeatother
+
+\def\tightlist{}
+%% define variables -- reference yaml variables...
+\def\firstname{$firstname$}
+\def\lastname{$lastname$}
+\def\display{$display$}
+\def\email{$email$}
+\def\mailto{$mailto$}
+\def\phone{$phone$}
+\def\street{$street$}
+\def\citystate{$citystate$}
+
+\begin{document}
+
+\pagestyle{empty}
+
+$if(border01)$
+  \AddToShipoutPictureBG*{\includegraphics[width=\paperwidth,height=\paperheight]{images/border01.pdf}}
+  \clearpage
+$endif$
+
+$body$
+
+$if(qrcode)$
+  \vspace{-0.19in}
+  \begin{pspicture}(0.0in,0.0in)
+  \rput(15.60,0.00){\psbarcode{MECARD:N:$lastname$,$firstname$;TEL:$phone$;EMAIL:$email$;ADR:$street$, $citystate$;}{eclevel=Q height=1.0 width=1.0}{qrcode}}
+  \end{pspicture}
+$endif$
+
+$if(border02)$
+  \AddToShipoutPictureBG*{\includegraphics[width=\paperwidth,height=\paperheight]{images/border02.pdf}}
+  \clearpage
+$endif$
+
+\end{document}
