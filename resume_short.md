@@ -15,7 +15,7 @@ qrcode: "true"
 
 \mailto\ $\diamond$ \phone$~$$\diamond$ \street\, \citystate
 
-\vspace{10pt}
+$\vspace{70pt}$
 
 # Summary
 

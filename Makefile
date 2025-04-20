@@ -11,6 +11,13 @@ INPUT_MD = resume_long.md
 OUTPUT_PDF = resume.pdf
 TEMPLATE = resume_template.tex
 
+# Generate PDF border using ps2pdf
+.PHONY: border
+border:
+	@echo "Generating border with ps2pdf..."
+	ps2pdf ./images/border01.ps ./images/border01.pdf
+	ps2pdf ./images/border02.ps ./images/border02.pdf
+
 # Generate PDF using Pandoc with xelatex
 .PHONY: short
 short:

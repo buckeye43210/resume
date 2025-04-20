@@ -13,9 +13,11 @@ border02: "true"
 qrcode: "true"
 ---
 
+$\vspace{40pt}$
+
 \mailto\ $\diamond$ \phone$~$$\diamond$ \street\, \citystate
 
-\vspace{10pt}
+$\vspace{0pt}$
 
 ## Summary
 |
@@ -32,11 +34,11 @@ Cyber Security professional with over 30 years of experience in software and cyb
 ## Special Skills
 
 
-| **DevOps/Agile**: Ansible, Jira, GitHub, Bitbucket, Scrum, Kanban, Decision Trees
-| **Programming**: Python, Bash, Java, C/C++, PHP, Ada
-| **Operating Systems**: Linux, FreeBSD, Solaris, Windows, BeOS, Haiku
-| **Protocols**: DNS, LDAP, SSH, HTTP/HTTPS, SMTP, IMAP, GEMINI
-| **Assembly**: Sparc, MIPS, 80x86, Z80
+|    - **DevOps/Agile**: Ansible, Jira, GitHub, Bitbucket, Scrum, Kanban, Decision Trees, Mind Maps
+|    - **Programming**: Python3, Bash, Java, C/C++, PHP, Ada
+|    - **Operating Systems**: Linux, FreeBSD, Solaris, Windows, BeOS, Haiku
+|    - **Protocols**: DNS, LDAP, SSH, HTTP/HTTPS, SMTP, IMAP, GEMINI
+|    - **Assembly**: Sparc, MIPS, 80x86, Z80
 \vspace{10pt}
 
 ## Experience
