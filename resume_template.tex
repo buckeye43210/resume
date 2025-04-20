@@ -13,6 +13,7 @@
  backref=false,
  colorlinks=true]
  {hyperref}
+
 \hypersetup{pdftitle={$title$},
  pdfauthor={$author$},
  linkcolor=blue, urlcolor=blue}
@@ -26,33 +27,39 @@
 \usepackage{xunicode}
 \usepackage[compact]{titlesec}
 \usepackage{fontspec}
+\usepackage{enumitem}
 \setmainfont{Times New Roman}
 \titlespacing{\section}{0pt}{*0}{*0}
 \titlespacing{\subsection}{0pt}{*0}{*0}
 \titlespacing{\subsubsection}{0pt}{*0}{*0}
+
+\def\tightlist{}
+
+\renewcommand{\labelitemi}{\(\diamond\)} % First-level bullet
 
 \setlength{\parskip}{2pt}
 \setlength{\parindent}{0em}
 
 \setcounter{secnumdepth}{0}
 
-\def\tightlist{}
-
-\setlength{\itemsep}{-6pt}
-\setlength{\topsep}{0pt}
+% Reduce spacing in itemize lists
+\setlist[itemize]{%
+  itemsep=0pt, % Space between items
+  parsep=0pt, % Space between paragraphs within an item
+  topsep=2pt, % Space before and after the list
+  partopsep=0pt % Extra space when list starts a new paragraph
+}
 
 \makeatletter
 %%%%%%%%%%%%%
 \makeatother
 
-\def\tightlist{}
-%% define variables -- reference yaml variables...
+\def\author{$author$}
 \def\firstname{$firstname$}
 \def\lastname{$lastname$}
 \def\display{$display$}
-\def\email{$email$}
-\def\mailto{$mailto$}
 \def\phone{$phone$}
+\def\mailto{$mailto$}
 \def\street{$street$}
 \def\citystate{$citystate$}
 
@@ -61,11 +68,12 @@
 \pagestyle{empty}
 
 $if(border01)$
-  \AddToShipoutPictureBG*{\includegraphics[width=\paperwidth,height=\paperheight]{images/border01.pdf}}
+  \AddToShipoutPictureBG*{\includegraphics[width=\paperwidth,height=\paperheight]{images/border02.pdf}}
   \clearpage
 $endif$
 
 $body$
+
 
 $if(qrcode)$
   \vspace{-0.19in}

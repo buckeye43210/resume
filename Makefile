@@ -7,7 +7,8 @@
 # Variables
 PANDOC = /usr/bin/pandoc
 ASPELL = /usr/bin/aspell
-INPUT_MD = resume_long.md
+PROSELINT = ~/.local/bin/proselint
+INPUT_MD = resume_short.md
 OUTPUT_PDF = resume.pdf
 TEMPLATE = resume_template.tex
 
@@ -19,8 +20,8 @@ border:
 	ps2pdf ./images/border02.ps ./images/border02.pdf
 
 # Generate PDF using Pandoc with xelatex
-.PHONY: short
-short:
+.PHONY: pdf
+pdf:
 #$(OUTPUT_PDF): $(INPUT_MD) $(TEMPLATE)
 	@echo "Generating $(OUTPUT_PDF) with Pandoc..."
 	$(PANDOC) $(INPUT_MD) -o $(OUTPUT_PDF) --pdf-engine=xelatex --template=$(TEMPLATE)
@@ -30,6 +31,12 @@ short:
 spell:
 	@echo "Spell checking $(INPUT_MD) with aspell..."
 	$(ASPELL) --lang=en --mode=markdown --add-filter=markdown check $(INPUT_MD)
+
+# Check spelling using aspell
+.PHONY: prose
+prose:
+	@echo "Prose linting $(INPUT_MD) with proselint..."
+	$(PROSE) $(INPUT_MD)
 
 # Clean up intermediate files
 .PHONY: clean
