@@ -21,7 +21,7 @@ $\vspace{0pt}$
 
 ## Summary
 |
-Cyber Security professional with over 30 years of experience in software and cyber engineering. Expert in Ansible, Python, and Linux system management, with a proven track record in vulnerability assessments, automation, and open-source contributions. Skilled in leading teams to achieve security objectives in high-stakes environments.
+Senior Sys Admin and Cyber Security professional with over 30 years of experience in software and cyber engineering. Expert in Ansible, Python, and Linux system management, with a proven track record in vulnerability assessments, automation, and open-source contributions. Skilled in leading teams to achieve security objectives in high-stakes environments.
 \vspace{10pt}
 
 ## Education
@@ -43,6 +43,10 @@ Cyber Security professional with over 30 years of experience in software and cyb
 
 ## Experience
 
+| **Ops Support Engineer III** $\diamond$ **JPMorgan Chase** $\diamond$ Tampa, FL $\diamond$ (Apr 2025 -- Present)
+
+|    - Reimplemented PERM Decsion Tree Builder in Python.
+|    - Supported Critical Financial infrastructure.
 
 | **Cyber Security Engineer III** $\diamond$ **JPMorgan Chase** $\diamond$ Columbus, OH $\diamond$ (Sep 2018 -- Mar 2025)
 
@@ -90,13 +94,13 @@ Cyber Security professional with over 30 years of experience in software and cyb
 |    - Represented Air Force on IEEE POSIX standards team.
 |    - Managed $20M Computer Resource Management Technology (CRMT) program, funding the Software Engineering Institute.
 
+\newpage
+$\vspace{10pt}$
+
 | **Lead Systems Engineer** $\diamond$ **Aeronautical Systems Division** $\diamond$ Wright-Patterson AFB, OH (Feb 1983 – Dec 1988)
 
 |    - \$21M B-1B Cockpit Procedures Trainer Lead Engineer and \$10M T-46 Flight Simulator Software Engineer.
 |    - Identified flight handling issues in T-46 Trainer, confirmed by test pilots.
-
-\newpage
-$\vspace{10pt}$
 
 ## Projects and Publications
 \vspace{10pt}
