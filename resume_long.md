@@ -1,140 +1,110 @@
- ---
+---
 title: "Holbert Resume"
 author: "Richard L Holbert"
 firstname: "Richard L"
 lastname: "Holbert"
 email: "rholbert@gmail.com"
 mailto: "[Richard L Holbert](rholbert@gmail.com)"
-phone: "+1-614-582-7891"
-street: "10430 Highland Manor Dr, Floor 03"
-citystate: "Tampa, FL 33610-9128"
+phone: +1-614-582-7891
+street: "1254 Bensbrooke Dr"
+citystate: "Wesley Chapel, FL 33543"
 border01: "true"
 border02: "true"
-border03: "true"
 qrcode: "true"
 ---
-
-\vspace{0.32in}
 
 \mailto\ $\diamond$ \phone$~$$\diamond$ \street\, \citystate
 
 \vspace{10pt}
 
-### Summary
+## Summary
+|
+Cyber Security professional with over 30 years of experience in software and cyber engineering. Expert in Ansible, Python, and Linux system management, with a proven track record in vulnerability assessments, automation, and open-source contributions. Skilled in leading teams to achieve security objectives in high-stakes environments.
+Education
+\vspace{10pt}
 
-Highly motivated Cyber Security professional with extensive experience in Software and Cyber Engineering.
-Proven ability to leverage technical expertise in a team-oriented environment to achieve security objectives.
-Skilled in a wide range of programming languages, operating systems, networking protocols and Cyber Security Tools.
+## Education
 
-### Education
 
-| United States Air Force Academy, Colorado Springs, CO
-| B.S. in Engineering
+| B.S. in Engineering, **United States Air Force Academy**, Colorado Springs, CO
+| Additional Coursework: Cryptography, Software Engineering, Data Structures, Database Design, Computational Linguistics
+\vspace{10pt}
 
-Additional coursework includes: Computational Linguistics, Code Making and Code Breaking, Database Design,
-Computer Architecture, Data Structures, Discrete Mathematics, Logic, Cryptography and Data Security,
-Software Verification and Validation, Software Generation and Maintenance, Principles and Application of Software
-Design, Specification of Software Systems and Software Engineering Concepts.
+## Special Skills
 
-### Special Skills
 
-| DevOps/Agile: Ansible, Jira, Bitbucket, GitHub, Kanban, Mindmaps, Decsion Tree Construction and Scrums
-| Programming Languages: ALGOL, Bash, Java, Python3, Jython, PHP, C, C++, FORTRAN, BASIC and Ada
-| Operating Systems: Linux, Free BSD, Solaris, VAX/VMS, CP/M, ZCPR3, BeOS, Haiku and Microsoft Windows
-| Internet Protocols: DNS, LDAP, SSH, HTTP, HTTPS, SMTP, POP, IMAP, GEMINI, etc.
-| Assembly Languages: Sparc, MIPS, 6502, 8080, Z80 and 80x86
-| Amateur Radio: Extra Class License WC8Q
+| **DevOps/Agile**: Ansible, Jira, GitHub, Bitbucket, Scrum, Kanban, Decision Trees
+| **Programming**: Python, Bash, Java, C/C++, PHP, Ada
+| **Operating Systems**: Linux, FreeBSD, Solaris, Windows, BeOS, Haiku
+| **Protocols**: DNS, LDAP, SSH, HTTP/HTTPS, SMTP, IMAP, GEMINI
+| **Assembly**: Sparc, MIPS, 80x86, Z80
+\vspace{10pt}
 
-### Experience
+## Experience
+
 
 | **Cyber Security Engineer III** | **JPMorgan Chase** | Columbus, OH | Sep 2018 -- Mar 2025
 
-* Recognized Ansible Subject Matter Expert (SME): Developed Playbooks and Roles for Cyber security tools.
-* Tenable Nessus Application Owner: Ensured system hygiene and coordinated vendor support.
-* Vulnerability Assessments: Team responsible for scanning millions of network assets.
-* Presented lecture on installing and using Ansible Molecule for Role and Playbook development.
-* Open Source Contributor: Added Markdown support for external links to text-to-freemind project.
-* Managed Home Lab consisting of Linux Servers and Proxmox (Type 1 Hypervisor) cluster.
-* Awarded AutoM8 Champion Badge for community participation (one of four firm-wide).
+* Developed Ansible playbooks as recognized SME, automating Cyber Security tool deployments.
+* Managed Tenable Nessus, ensuring system hygiene and vendor coordination.
+* Conducted vulnerability assessments on millions of network assets.
+* Contributed Markdown support to text-to-freemind open-source project.
+* Awarded AutoM8 Champion Badge for firm-wide community participation.
 
 | **Linux System Manager**  |  **The Ohio State University** | Columbus, OH | Mar 2001 -- Aug 2018
 
-* Managed 100+ mission-critical Linux servers (Oracle Database, Tomcat, Zimbra Email, SFTP, Apache).
-* Leveraged virtual computing using VMware, VirtualBox and Docker containers.
-* Adept in LAMP (Linux, Apache, MySQL, PHP) technology.
-* Supported national surveys and data analysis for Census Bureau and Bureau of Labor and Statistics.
-* Installed, secured and maintained hardware, operating systems and application software.
-* Configured Puppet and Ansible to automate NIST/CIS Security Baselines.
-* Used Tenable Security Center and Nessus Scanners for vulnerability detection.
-* Developed Python scripts to migrate 100K+ email user accounts by pushing contents into IMAP.
+* Administered 100+ Linux servers (Oracle, Tomcat, Zimbra, Apache).
+* Automated NIST/CIS security baselines using Puppet and Ansible.
+* Developed Python scripts to migrate 100K+ email accounts to IMAP.
+* Supported national surveys for Census Bureau and Bureau of Labor Statistics.
 
-| **Lead Unix System Administrator** | **TEAM America Inc.** | Columbus, OH | Oct 1998 -- Mar 2001
+| **Lead Unix System Administrator** | **TEAM America Inc.** | Columbus, OH | (Oct 1998 – Mar 2001)
 
-* Migrated multiple Corporate Web Sites from Windows NT to LAOP (Apache on Linux). 
-* Implemented multi-zone Domain Name Servers using bind on Linux.
-* Generated Dynamic Web Pages using PHP to query Oracle Databaes.
-* Integrated Oracle data with dynamic Acrobat PDF files.
-* Setup remote Linux based File and Print Servers using Samba.
-* Used Rsync over Secure Shell (SSH) to automatically detect and propagate Oracle form and report changes to remote file servers.
-* Used SSH and VNC to remotely administer Unix and Linux servers.
-* Reduced operating costs, improved network performance, and increased server availability.
+* Migrated corporate Windows websites to Linux/Apache, improving performance and reducing costs.
+* Implemented multi-zone DNS and dynamic PHP/Oracle web pages.
+* Automated Oracle form/report replication using Rsync and Samba.
 
-| **Assistant Manager, Network Operations** | **Ameritech Cellular** | Columbus, OH | Jul 1997 – Oct 1998                       
+| **Assistant Manager, Network Operations** | **Ameritech Cellular** | Columbus, OH | (Jul 1997 – Oct 1998)
 
-* Responsible for the maintenance and planning of 25+ Cell Sites.
-* Upgraded Columbus Cellular network from analog protocols to Code-Division Multiple Access (CDMA) protocols.
-* Duties included installing, testing and diagnosing facilities (T-1 Lines, CSU/DSUs, and Micro-Wave Links)
-* Maintained Radio Frequency Equipment, Cellular Digital Packet Data (CDPD), satellite receivers, and paging transmitters.
+* Upgraded cellular network to CDMA, while maintaining 25+ cell sites.
+* Managed T-1 lines, microwave links, and RF equipment.
 
-| **Staff Engineer**  | **International Consultants** | Dayton, OH | Jan 1997 – Jul 1997
+| **Staff Engineer** | **International Consultants** | Dayton, OH (Jan 1997 – Jul 1997)
 
-* Developed complex hypertext Decision Support System displaying diverse Air Force hazardous chemical usage
-* Recommended less hazardous alternative chemicals and processes. 
-* Designed Decision Support System using MaxThink and Perm Decision-Tree Builder.
-* Discovered how to implement Analytical Hierarchy Process (AHP) using PERM generated decision trees. 
-* Eliminated Matrix Mathematics required by traditional AHP.
+* Designed hypertext Decision Support System for Air Force hazardous chemical usage.
+* Implemented Analytical Hierarchy Process using decision trees, eliminating complex mathematics.
 
-| **Staff Engineer** | **Aeronautical Radio, Inc. (ARINC)** |  Dayton, OH | Jan 1995 – Nov 1996
+| **Staff Engineer** | **Aeronautical Radio, Inc. (ARINC)** | Dayton, OH (Jan 1995 – Nov 1996)
 
-* Company Cryptography SME (Subject Matter Expert).
-* Advised company executives on Public Key Infrastructure (PKI) strategic planning.
-* Developed GPS vehicle locater system using packet radio modems, and digital moving map displays.
-* Developed software to transfer wide-area differential GPS corrections to smart munitions. 
-* Assisted Air Force during transition from Military Specifications and Standards to Commercial Standards.
-* Designed and Maintained Financial Management, Office Automation, and Suspense Tracking System using FoxPro for Windows.
+* Advised on Public Key Infrastructure (PKI) as Cryptography SME.
+* Developed GPS vehicle locator and differential GPS correction systems.
 
-| **Embedded Software Engineer** | **HQ Air Force Materiel Command** |  Wright-Patterson AFB, OH | Sep 1991 – Dec 1994
+\newpage
+$\vspace{10pt}$
 
-* Chaired the Joint Logistics Commanders - Software Engineering Education and Training Functional Working Group.
-* Air Force Representative to the DoD Joint Software Acquisition Management Education Working Group.
-* Developed and Maintained information systems used to implement and track Air Force Ozone Depleting Chemical (ODC) policy.
+| **Embedded Software Engineer** | **HQ Air Force Materiel Command** | Wright-Patterson AFB, OH (Sep 1991 – Dec 1994)
 
-| **Embedded Software Engineer** | **HQ Air Force Systems Command** | Andrews AFB, MD | Dec 1988 – Sep 1991
+* Chaired Software Engineering Education Working Group for Joint Logistics Commanders.
+* Managed Air Force Ozone Depleting Chemical (ODC) policy systems.
 
-* Air Force representative to IEEE POSIX standards development team.
-* Directed transition of Mission-Critical Computer Resources technology into weapon systems.  
-* System Program Manager for Air Force Computer Resource Management Technology program with $20M annual budget.
-* Developed and Implemented office automation systems and computer security policies.
-* Executed Air Force Systems Command Ada programming language policy.
-* Demonstrated remote computer-based hypertext information retrieval system before inception of the world wide web.
+| **Embedded Software Engineer** | **HQ Air Force Systems Command** | Andrews AFB, MD (Dec 1988 – Sep 1991)
 
-| **Lead Systems Engineer**  | **Aeronautical Systems Division**  | Wright-Patterson AFB, OH | Feb 1983 – Dec 1988            
+* Represented Air Force on IEEE POSIX standards team.
+* Managed $20M Computer Resource Management Technology (CRMT) program.
+* CRMT funded the Software Engineering Institute (SEI).
 
-* Lead Engineer for $21M B-1B Cockpit Procedures Trainer. 
-* Directed team of eight engineers and aircrew members in verification of trainer performance specifications.
-* Authored Flight Simulator Computer Resource Specifications. 
-* Conducted Design Reviews and Software Configuration Audits.
-* Discovered Flight Handling deficiencies in Fairchild T-46 Next Generation Trainer.
-* Findings confirmed by Edwards AFB Test Pilots.
+| **Lead Systems Engineer** | **Aeronautical Systems Division** | Wright-Patterson AFB, OH (Feb 1983 – Dec 1988)
 
-| **Student Pilot**  | **14th Flying Training Wing** |  Columbus AFB, MS | Aug 1982 - Feb 1983
+* \$21M B-1B Cockpit Procedures Trainer Lead Engineer and \$10M T-46 Flight Simulator Software Engineer.
+* Identified flight handling issues in T-46 Trainer, confirmed by test pilots.
 
-* Additional Duty -- Base Safety Office Computer Admin Support.
+## Projects and Publications
+\vspace{10pt}
 
-### Projects and Publications
-
-| "[pyPERM-DecistionTree Decsion Tree Builder](https://github.com/buckeye43210/pyPERM-DecisionTree)," Open Source Project (Apr 2025)
-| "[Configuring Perdition Proxy Using an Existing LDAP Server](http://horms.net/projects/perdition/docs/perdition_ldap.pdf)," Mail Retrieval Proxy (May 2003)
-| “[Avoiding Type 3 Bitmap Fonts in PDFs](http://www.free-soft.org/FSM/english/issue03/rick.pdf),” Free Software Magazine (Mar 2002)
-| “[Micro Publishing](http://conferences.oreillynet.com/cs/os2001/view/e_sess/1483),” O’Reilly Open Source Software Convention (Jul 2001)
-| “[Micro Publishing](https://web.archive.org/web/20070209105925/http://www.linuxgazette.net/issue47/nielsen.html),” Linux Gazette, Vol. 47 (Nov 1999)
+* "[pyPERM-DecistionTree Decsion Tree Builder](https://github.com/buckeye43210/pyPERM-DecisionTree)," Open Source Project (Apr 2025)
+* "[Configuring Perdition Proxy Using an Existing LDAP Server](http://horms.net/projects/perdition/docs/perdition_ldap.pdf)," Mail Retrieval Proxy (May 2003)
+* “[Avoiding Type 3 Bitmap Fonts in PDFs](http://www.free-soft.org/FSM/english/issue03/rick.pdf),” Free Software Magazine (Mar 2002)
+* "[Using Perm Decison Tree Builder](https://web.archive.org/web/20150918220955/http://conferences.oreillynet.com/cs/os2001/view/e_sess/1292)," O'Reilly Open Source Software Convention (Jul 2001)
+* “[Micro Publishing](https://web.archive.org/web/20150914180520/http://conferences.oreillynet.com/cs/os2001/view/e_sess/1483),” O’Reilly Open Source Software Convention (Jul 2001)
+* “[Micro Publishing](https://web.archive.org/web/20070209105925/http://www.linuxgazette.net/issue47/nielsen.html),” Linux Gazette, Vol. 47 (Nov 1999)
+* “Future of Software Engineering Standards,” IEEE Standards Conference (1994)

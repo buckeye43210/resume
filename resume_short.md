@@ -1,32 +1,31 @@
- ---
+---
 title: "Holbert Resume"
 author: "Richard L Holbert"
 firstname: "Richard L"
 lastname: "Holbert"
 email: "rholbert@gmail.com"
 mailto: "[Richard L Holbert](rholbert@gmail.com)"
-phone: "+1-614-582-7891"
-street: "10430 Highland Manor Dr, Floor 03"
-citystate: "Tampa, FL 33610-9128"
+phone: +1-614-582-7891
+street: "1254 Bensbrooke Dr"
+citystate: "Wesley Chapel, FL 33543"
 border01: "true"
+border02: "true"
 qrcode: "true"
 ---
-
-\vspace{0.32in}
 
 \mailto\ $\diamond$ \phone$~$$\diamond$ \street\, \citystate
 
 \vspace{10pt}
 
-### Summary
+# Summary
 
-Highly motivated Cyber Security professional with extensive experience in Software and Cyber Engineering.
-Proven ability to leverage technical expertise in a team-oriented environment to achieve security objectives.
-Skilled in a wide range of programming languages, operating systems, networking protocols and Cyber Security Tools.
+Highly motivated Cyber Security professional with extensive experience in Software and Cyber Security Engineering.
+Proven ability to leverage technical expertise in a team-oriented environment to achieve desired outcomes.
+Skilled in a wide-range of programming languages, operating systems, networking protocols, configuration and Cyber Security Tools.
 
-### Education
+# Education
 
-| United States Air Force Academy, Colorado Springs, CO
+| **United States Air Force Academy**, Colorado Springs, CO
 | B.S. in Engineering
 
 Additional coursework includes: Computational Linguistics, Code Making and Code Breaking, Database Design,
@@ -34,28 +33,27 @@ Computer Architecture, Data Structures, Discrete Mathematics, Logic, Cryptograph
 Software Verification and Validation, Software Generation and Maintenance, Principles and Application of Software
 Design, Specification of Software Systems and Software Engineering Concepts.
 
-### Special Skills
+# Special Skills
 
-| DevOps/Agile: Ansible, Jira, Bitbucket, GitHub, Kanban, Mindmaps, Microsoft Teams, Zoom and Scrums
-| Programming Languages: ALGOL, Bash, Java, Python3, Jython, PHP, C, C++, FORTRAN, BASIC and Ada
-| Operating Systems: Linux, Free BSD, Solaris, VAX/VMS, CP/M, ZCPR3, BeOS, Haiku and Microsoft Windows
-| Internet Protocols: DNS, LDAP, SSH, HTTP, HTTPS, SMTP, POP, IMAP, etc.
-| Assembly Languages: Sparc, MIPS, 6502, 8080, Z80 and 80x86
-| Amateur Radio: Extra Class License WC8Q
+| **DevOps/Agile**: Ansible, Jira, Bitbucket, GitHub, Kanban, Mindmaps, Microsoft Teams, Zoom and Scrums
+| **Programming**: ALGOL, Bash, Java, Python3, Jython, PHP, C, C++, FORTRAN, BASIC and Ada
+| **Operating Systems**: Linux, Free BSD, Solaris, VAX/VMS, CP/M, ZCPR3, BeOS, Haiku and Windows
+| **Protocols**: DNS, LDAP, SSH, GEMINI, HTTP, HTTPS, SMTP, POP, IMAP, etc.
+| **Assembly**: Sparc, MIPS, 6502, X86_64 and Z80
 
-### Experience
+# Experience
 
-| **Cyber Security Engineer III** | **JPMorgan Chase** | Columbus, OH | Sep 2018 -- Mar 2025
+| **Cyber Security Engineer III** $\diamond$ **JPMorgan Chase** $\diamond$ Columbus, OH $\diamond$ (Sep 2018 -- Mar 2025)
 
 * Recognized Ansible Subject Matter Expert (SME): Developed Playbooks and Roles for Cyber security tools.
 * Tenable Nessus Application Owner: Ensured system hygiene and coordinated vendor support.
 * Vulnerability Assessments: Team responsible for scanning millions of network assets.
-* Presented lecture on installing and using Ansible Molecule for Role and Playbook development.
+* Presented lecture Ansible Molecule for Role and Playbook development.
 * Open Source Contributor: Added Markdown support for external links to text-to-freemind project.
 * Managed Home Lab consisting of Linux Servers and Proxmox (Type 1 Hypervisor) cluster.
 * Awarded AutoM8 Champion Badge for community participation (one of four firm-wide).
 
-| **Linux System Manager**  |  **The Ohio State University** | Columbus, OH | Mar 2001 -- Aug 2018
+| **Linux System Manager**  $\diamond$  **The Ohio State University** $\diamond$ Columbus, OH $\diamond$ (Mar 2001 -- Aug 2018)
 
 * Managed 100+ mission-critical Linux servers (Oracle Database, Tomcat, Zimbra Email, SFTP, Apache).
 * Leveraged virtual computing using VMware, VirtualBox and Docker containers.
@@ -68,7 +66,7 @@ Design, Specification of Software Systems and Software Engineering Concepts.
 
 **(Previous Experience Omitted for Brevity)**
 
-### Projects and Presentations
+# Projects and Presentations
 
 | "[pyPERM-DecistionTree Decsion Tree Builder](https://github.com/buckeye43210/pyPERM-DecisionTree)," Open Source Project (Apr 2025)
 | "[Configuring Perdition Proxy Using an Existing LDAP Server](http://horms.net/projects/perdition/docs/perdition_ldap.pdf)," Mail Retrieval Proxy (May 2003)
