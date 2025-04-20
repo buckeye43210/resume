@@ -20,7 +20,6 @@ qrcode: "true"
 ## Summary
 |
 Cyber Security professional with over 30 years of experience in software and cyber engineering. Expert in Ansible, Python, and Linux system management, with a proven track record in vulnerability assessments, automation, and open-source contributions. Skilled in leading teams to achieve security objectives in high-stakes environments.
-Education
 \vspace{10pt}
 
 ## Education
