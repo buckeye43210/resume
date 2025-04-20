@@ -7,7 +7,7 @@
 # Variables
 PANDOC = /usr/bin/pandoc
 ASPELL = /usr/bin/aspell
-INPUT_MD = resume_short.md
+INPUT_MD = resume_long.md
 OUTPUT_PDF = resume.pdf
 TEMPLATE = resume_template.tex
 
