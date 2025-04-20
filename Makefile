@@ -6,7 +6,8 @@
 
 # Variables
 PANDOC = /usr/bin/pandoc
-INPUT_MD = resume_long.md
+ASPELL = /usr/bin/aspell
+INPUT_MD = resume_short.md
 OUTPUT_PDF = resume.pdf
 TEMPLATE = resume_template.tex
 
@@ -16,6 +17,12 @@ short:
 #$(OUTPUT_PDF): $(INPUT_MD) $(TEMPLATE)
 	@echo "Generating $(OUTPUT_PDF) with Pandoc..."
 	$(PANDOC) $(INPUT_MD) -o $(OUTPUT_PDF) --pdf-engine=xelatex --template=$(TEMPLATE)
+
+# Check spelling using aspell
+.PHONY: spell
+spell:
+	@echo "Spell checking $(INPUT_MD) with aspell..."
+	$(ASPELL) --lang=en --mode=markdown --add-filter=markdown check $(INPUT_MD)
 
 # Clean up intermediate files
 .PHONY: clean
