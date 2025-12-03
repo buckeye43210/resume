@@ -88,7 +88,7 @@
   - Managed T-1 lines, microwave links, and RF equipment.
   *Staff Engineer* ⋄ *International Consultants, Inc. (ICI)* ⋄ Dayton, OH (Jan 1997 – Jul 1997)
   - Designed hypertext Decision Support System for Air Force hazardous chemical usage.
-  - Implemented Analytical Hierarchy Process (AHP) using decision trees, eliminating complex mathematics.
+  - Implemented Analytical Hierarchy Process (AHP) using decision trees, eliminating complex matrix math requirement.
   *Staff Engineer* ⋄ *Aeronautical Radio, Inc. (ARINC)* ⋄ Dayton, OH (Jan 1995 – Nov 1996)
   - Advised on Public Key Infrastructure (PKI) as RSA Public Key Cryptography SME.
   - Developed GPS vehicle locator and differential GPS correction systems.
