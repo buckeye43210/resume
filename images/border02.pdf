@@ -1,19 +1,20 @@
 %PDF-1.4
 %«Ïè¢
-%%Invocation: path/gs -P- -dSAFER -dCompatibilityLevel=1.4 -q -P- -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -sstdout=? -sOutputFile=? -P- -dSAFER -dCompatibilityLevel=1.4 ?
+%%Invocation: path/gs -P- -dSAFER -dCompatibilityLevel=1.4 -dWriteXRefStm=false -dWriteObjStms=false -q -P- -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -sstdout=? -sOutputFile=? -P- -dSAFER -dCompatibilityLevel=1.4 -dWriteXRefStm=false -dWriteObjStms=false ?
 5 0 obj
 <</Length 6 0 R/Filter /FlateDecode>>
 stream
-xúEç±Ä0{O·	–«ƒ&†Få@
-ö∞>±ìπ¯”˚˝~S`ÿtΩnR~	ºì(8	¿’“–9ì.[ÁFpin¸R]ø_«πQˆV#SÀw÷«“-?ö˝7¸¯§É>õ"!endstream
+xúEç±Ä0{O·	‡11Å	®Å(h†@Ha}∞Ñ\¸È˝~üå™aÿ]™Á»€E 7ÅG˜A™M·ù¥
+gÇÄSv√ê◊ı+Òuh3Ìﬁjdj˘‰NÏ√∑ÙBÀÕ˛~º–DR°#›endstream
 endobj
 6 0 obj
-102
+109
 endobj
 4 0 obj
-<</Type/Page/MediaBox [0 0 595 842]
+<</Type/Page/MediaBox [0 0 612 792]
 /Parent 3 0 R
 /Resources<</ProcSet[/PDF]
+/ExtGState 8 0 R
 >>
 /Contents 5 0 R
 >>
@@ -26,21 +27,31 @@ endobj
 endobj
 1 0 obj
 <</Type /Catalog /Pages 3 0 R
-/Metadata 7 0 R
+/Metadata 9 0 R
 >>
 endobj
 7 0 obj
+<</Type/ExtGState
+/SA false>>endobj
+8 0 obj
+<</R7
+7 0 R>>
+endobj
+9 0 obj
 <</Type/Metadata
-/Subtype/XML/Length 1215>>stream
+/Subtype/XML/Length 1485>>stream
 <?xpacket begin='Ôªø' id='W5M0MpCehiHzreSzNTczkc9d'?>
 <?adobe-xap-filters esc="CRLF"?>
 <x:xmpmeta xmlns:x='adobe:ns:meta/' x:xmptk='XMP toolkit 2.9.1-13, framework 1.6'>
 <rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:iX='http://ns.adobe.com/iX/1.0/'>
-<rdf:Description rdf:about="" xmlns:pdf='http://ns.adobe.com/pdf/1.3/' pdf:Producer='GPL Ghostscript 10.00.0'/>
-<rdf:Description rdf:about="" xmlns:xmp='http://ns.adobe.com/xap/1.0/'><xmp:ModifyDate>2025-04-20T01:22:45-04:00</xmp:ModifyDate>
-<xmp:CreateDate>2025-04-20T01:22:45-04:00</xmp:CreateDate>
+<rdf:Description rdf:about="" xmlns:pdf='http://ns.adobe.com/pdf/1.3/' pdf:Producer='GPL Ghostscript 10.05.1'/>
+<rdf:Description rdf:about="" xmlns:xmp='http://ns.adobe.com/xap/1.0/'><xmp:ModifyDate>2025-12-02T20:03:30-05:00</xmp:ModifyDate>
+<xmp:CreateDate>2025-12-02T20:03:30-05:00</xmp:CreateDate>
+<xmp:MetadataDate>2025-12-02T20:03:30-05:00</xmp:MetadataDate>
 <xmp:CreatorTool>dvips(k) 5.98 Copyright 2009 Radical Eye Software</xmp:CreatorTool></rdf:Description>
-<rdf:Description rdf:about="" xmlns:xapMM='http://ns.adobe.com/xap/1.0/mm/' xapMM:DocumentID='uuid:0a52c981-55c4-11fb-0000-e0a98acf0dfa'/>
+<rdf:Description rdf:about="" xmlns:xmpMM='http://ns.adobe.com/xap/1.0/mm/' xmpMM:DocumentID='uuid:6e9a6386-0800-11fc-0000-22314f79206f'/>
+<rdf:Description rdf:about="" xmlns:xmpMM='http://ns.adobe.com/xap/1.0/mm/' xmpMM:RenditionClass='default'/>
+<rdf:Description rdf:about="" xmlns:xmpMM='http://ns.adobe.com/xap/1.0/mm/' xmpMM:VersionID='1'/>
 <rdf:Description rdf:about="" xmlns:dc='http://purl.org/dc/elements/1.1/' dc:format='application/pdf'><dc:title><rdf:Alt><rdf:li xml:lang='x-default'>border.ps</rdf:li></rdf:Alt></dc:title></rdf:Description>
 </rdf:RDF>
 </x:xmpmeta>
@@ -50,25 +61,27 @@ endobj
 endstream
 endobj
 2 0 obj
-<</Producer(GPL Ghostscript 10.00.0)
-/CreationDate(D:20250420012245-04'00')
-/ModDate(D:20250420012245-04'00')
+<</Producer(GPL Ghostscript 10.05.1)
+/CreationDate(D:20251202200330-05'00')
+/ModDate(D:20251202200330-05'00')
 /Creator(dvips\(k\) 5.98 Copyright 2009 Radical Eye Software)
 /Title(border.ps)>>endobj
 xref
-0 8
+0 10
 0000000000 65535 f 
-0000000546 00000 n 
-0000001901 00000 n 
-0000000487 00000 n 
-0000000373 00000 n 
-0000000182 00000 n 
-0000000354 00000 n 
-0000000610 00000 n 
+0000000654 00000 n 
+0000002352 00000 n 
+0000000595 00000 n 
+0000000464 00000 n 
+0000000266 00000 n 
+0000000445 00000 n 
+0000000718 00000 n 
+0000000762 00000 n 
+0000000791 00000 n 
 trailer
-<< /Size 8 /Root 1 0 R /Info 2 0 R
-/ID [<D5733AC440603F924643E58F37AF3216><D5733AC440603F924643E58F37AF3216>]
+<< /Size 10 /Root 1 0 R /Info 2 0 R
+/ID [<100322951A79729C458FD9502AE5DFE5><100322951A79729C458FD9502AE5DFE5>]
 >>
 startxref
-2107
+2558
 %%EOF

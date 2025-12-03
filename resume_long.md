@@ -105,10 +105,9 @@ $\vspace{10pt}$
 ## Projects and Publications
 \vspace{10pt}
 
-| "[pyPERM-DecistionTree Decision Tree Builder](https://github.com/buckeye43210/pyPERM-DecisionTree)," Open Source Project (Apr 2025)
+| "[pyPERM-DecistionTree Decision Tree Builder](https://github.com/buckeye43210/pyPERM-DecisionTree)," Open-Source Project (Apr 2025)
 | "[Configuring Perdition Proxy Using an Existing LDAP Server](http://horms.net/projects/perdition/docs/perdition_ldap.pdf)," Mail Retrieval Proxy (May 2003)
 | “[Avoiding Type 3 Bitmap Fonts in PDFs](http://www.free-soft.org/FSM/english/issue03/rick.pdf),” Free Software Magazine (Mar 2002)
-| "[Using Perm Decision Tree Builder](https://web.archive.org/web/20150918220955/http://conferences.oreillynet.com/cs/os2001/view/e_sess/1292)," O'Reilly Open Source Software Convention (Jul 2001)
-| “[Micro Publishing](https://web.archive.org/web/20150914180520/http://conferences.oreillynet.com/cs/os2001/view/e_sess/1483),” O’Reilly Open Source Software Convention (Jul 2001)
+| "[Using Perm Decision Tree Builder](https://web.archive.org/web/20150918220955/http://conferences.oreillynet.com/cs/os2001/view/e_sess/1292)," O'Reilly Open-Source Software Convention (Jul 2001)
+| “[Micro Publishing](https://web.archive.org/web/20150914180520/http://conferences.oreillynet.com/cs/os2001/view/e_sess/1483),” O’Reilly Open-Source Software Convention (Jul 2001)
 | “[Micro Publishing](https://web.archive.org/web/20070209105925/http://www.linuxgazette.net/issue47/nielsen.html),” Linux Gazette, Vol. 47 (Nov 1999)
-| “Future of Software Engineering Standards,” IEEE Standards Conference (1994)

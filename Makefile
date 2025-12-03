@@ -8,7 +8,7 @@
 PANDOC = /usr/bin/pandoc
 ASPELL = /usr/bin/aspell
 PROSELINT = ~/.local/bin/proselint
-INPUT_MD = resume_short.md
+INPUT_MD = resume_long.md
 OUTPUT_PDF = resume.pdf
 TEMPLATE = resume_template.tex
 

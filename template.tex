@@ -1,0 +1,76 @@
+\documentclass[11pt,oneside,letterpaper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\geometry{top=0.5in,bottom=0.5in,left=0.75in,right=0.75in}
+\usepackage[unicode=true,
+ bookmarks=true,
+ bookmarksnumbered=false,
+ bookmarksopen=false,
+ breaklinks=false,
+ pdfborder={0 0 0},
+ backref=false,
+ colorlinks=true,
+ pdftitle={$title$},
+ pdfauthor={$author$},
+ urlcolor=blue,
+ linkcolor=blue]
+ {hyperref}
+
+\usepackage{amssymb}
+\usepackage[table]{xcolor}
+\usepackage{longtable,booktabs}
+\usepackage{eso-pic,graphicx}
+\usepackage{color}
+\usepackage[compact]{titlesec}
+\usepackage{fontspec}
+\usepackage{xunicode}
+\usepackage{enumitem}
+\usepackage{framed}
+\usepackage{fancyvrb}
+
+\definecolor{shadecolor}{rgb}{0.9,0.9,0.9}
+% Define Shaded to match shaded
+\newenvironment{Shaded}{\begin{shaded}}{\end{shaded}}
+\newenvironment{Highlighting}{\begin{Verbatim}}{\end{Verbatim}}
+\setmainfont{Times New Roman}
+
+\titlespacing{\section}{0pt}{*0}{*0}
+\titlespacing{\subsection}{0pt}{*0}{*0}
+\titlespacing{\subsubsection}{0pt}{*0}{*0}
+
+\def\tightlist{}
+
+\renewcommand{\labelitemi}{\(\diamond\)} % First-level bullet
+
+\setlength{\parskip}{2pt}
+\setlength{\parindent}{0em}
+
+\setcounter{secnumdepth}{0}
+
+% Reduce spacing in itemize lists
+\setlist[itemize]{%
+  itemsep=0pt, % Space between items
+  parsep=0pt, % Space between paragraphs within an item
+  topsep=2pt, % Space before and after the list
+  partopsep=0pt % Extra space when list starts a new paragraph
+}
+
+\makeatletter
+%%%%%%%%%%%%%
+\makeatother
+
+\begin{document}
+
+%\pagestyle{empty}
+
+\begin{center}
+  \vspace*{10pt}
+  \textbf{\LARGE $title$} \\
+  \vspace{5pt}
+  \textbf{$author$} \\
+  \vspace{10pt}
+\end{center}
+
+$body$
+
+\end{document}

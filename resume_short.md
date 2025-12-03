@@ -86,8 +86,8 @@ Additional Coursework: Cryptography, Software Engineering, Data Structures, Data
 
 # Projects and Presentations
 
-| "[pyPERM-DecistionTree Decision Tree Builder](https://github.com/buckeye43210/pyPERM-DecisionTree)," Open Source Project (Apr 2025)
+| "[pyPERM-DecistionTree Decision Tree Builder](https://github.com/buckeye43210/pyPERM-DecisionTree)," Open-Source Project (Apr 2025)
 | "[Configuring Perdition Proxy Using an Existing LDAP Server](http://horms.net/projects/perdition/docs/perdition_ldap.pdf)," Mail Retrieval Proxy (May 2003)
 | “[Avoiding Type 3 Bitmap Fonts in PDFs](http://www.free-soft.org/FSM/english/issue03/rick.pdf),” Free Software Magazine (Mar 2002)
-| “[Micro Publishing](http://conferences.oreillynet.com/cs/os2001/view/e_sess/1483),” O’Reilly Open Source Software Convention (Jul 2001)
-| "[Using Perm Decision Tree Builder](https://web.archive.org/web/20150918220955/http://conferences.oreillynet.com/cs/os2001/view/e_sess/1292)," O'Reilly Open Source Software Convention (Jul 2001)
+| “[Micro Publishing](http://conferences.oreillynet.com/cs/os2001/view/e_sess/1483),” O’Reilly Open-Source Software Convention (Jul 2001)
+| "[Perm Decision Tree Builder](https://web.archive.org/web/20150918220955/http://conferences.oreillynet.com/cs/os2001/view/e_sess/1292)," O'Reilly Open-Source Software Convention (Jul 2001)
