@@ -8,7 +8,7 @@
 #set text(font: "New Computer Modern", size: 10pt)
 #set heading(numbering: none)
 #set par(leading: 0.3em, justify: true)
-#set list(marker: "-")
+#set list(marker: [--], indent: 0.5em)
 // Variables from YAML
 #let title = "Holbert Resume"
 #let author = "Richard L Holbert"
@@ -84,7 +84,7 @@
   - Implemented multi-zone DNS and dynamic PHP/Oracle web pages.
   - Automated Oracle form/report replication using Rsync and Samba.
   *Assistant Manager, Network Operations* ⋄ *Ameritech Cellular* ⋄ Columbus, OH ⋄ (Jul 1997 – Oct 1998)
-  - Upgraded cellular network to CDMA, while maintaining 25+ cell sites.
+  - Upgraded cellular network to CDMA, while maintaining 25+ legacy cell sites.
   - Managed T-1 lines, microwave links, and RF equipment.
   *Staff Engineer* ⋄ *International Consultants, Inc. (ICI)* ⋄ Dayton, OH (Jan 1997 – Jul 1997)
   - Designed hypertext Decision Support System for Air Force hazardous chemical usage.
