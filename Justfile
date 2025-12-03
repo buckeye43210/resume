@@ -18,3 +18,7 @@ pdf:
 typst:
 	echo "Generating resume.pdf using Typst..."
 	typst compile resume.typ resume.pdf
+
+watch:
+	echo "Recompiling after change detection..."
+	typst watch resume.typ resume.pdf
