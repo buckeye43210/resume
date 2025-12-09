@@ -18,7 +18,7 @@ qrcode: "true"
 
 # Summary
 
-Senior Sys Admin and Cyber Security professional with over 30 years of experience in software and cyber engineering. Expert in Ansible,
+Senior System Administrator and Cyber Security professional with over 30 years of software and cyper engineering experience. Expert in Ansible,
 Python, and Linux system management, with a proven track record in vulnerability assessments, automation, and open-source contributions.
 Skilled in leading teams to achieve security objectives in high-stakes environments.
 
@@ -68,17 +68,17 @@ Additional Coursework: Cryptography, Software Engineering, Data Structures, Data
    - Upgraded cellular network to CDMA, while maintaining 25+ cell sites.
    - Managed T-1 lines, microwave links, and RF equipment.
 
-| **Staff Engineer** $\diamond$ **International Consultants, Inc. (ICI)** $\diamond$ Dayton, OH (Jan 1997 – Jul 1997)
+| **Staff Engineer** $\diamond$ **International Consultants, Inc. (ICI)** $\diamond$ Dayton, OH $\diamond$ (Jan 1997 – Jul 1997)
 
    - Designed hypertext Decision Support System for Air Force hazardous chemical usage.
    - Implemented Analytical Hierarchy Process (AHP) using decision trees, eliminating complex mathematics.
 
-| **Staff Engineer** $\diamond$ **Aeronautical Radio, Inc. (ARINC)** $\diamond$ Dayton, OH (Jan 1995 – Nov 1996)
+| **Staff Engineer** $\diamond$ **Aeronautical Radio, Inc. (ARINC)** $\diamond$ Dayton, OH  $\diamond$ (Jan 1995 – Nov 1996)
 
    - Advised on Public Key Infrastructure (PKI) as RSA Public Key Cryptography SME.
    - Developed GPS vehicle locator and differential GPS correction systems.
 
-| **Embedded Software Engineer** $\diamond$ **HQ Air Force Materiel Command** $\diamond$ Wright-Patterson AFB, OH (Sep 1991 – Dec 1994)
+| **Embedded Software Engineer** $\diamond$ **HQ Air Force Materiel Command** $\diamond$ Wright-Patterson AFB, OH  $\diamond$ (Sep 1991 – Dec 1994)
 
    - Chaired Software Engineering Education Working Group for Joint Logistics Commanders.
    - Managed Air Force Ozone Depleting Chemical (ODC) policy systems.
