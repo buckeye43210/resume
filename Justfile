@@ -13,7 +13,7 @@ border:
 # Generate PDF using Pandoc with xelatex
 pdf:
 	echo "Generating resume.pdf using Pandoc..."
-	pandoc resume_short.md -o resume.pdf --pdf-engine=xelatex --template=resume_template.tex
+	pandoc resume_short.md -o resume.pdf --pdf-engine=typst --template=resume_template.tex
 
 typst:
 	echo "Generating resume.pdf using Typst..."
