@@ -1,3 +1,4 @@
+#import "@preview/metalogo:1.2.0": TeX, LaTeX
 #import "@preview/rustycure:0.2.0": qr-code
 
 // Global styling
@@ -25,18 +26,6 @@
 #let phone = "(614) 582-7891"
 #let street = "1254 Bensbrooke Dr"
 #let citystate = "Wesley Chapel, FL 33543"
-
-#let latex = {
-    set text(font: "New Computer Modern")
-    box(width: 2.55em, {
-      [L]
-      place(top, dx: 0.3em, text(size: 0.7em)[A])
-      place(top, dx: 0.7em)[T]
-      place(top, dx: 1.26em, dy: 0.22em)[E]
-      place(top, dx: 1.8em)[X]
-    })
-}
-#show "LaTeX": latex
 
 #set page(background: place(top + left, dx: 0.75em, dy: 0.25em)[
   #image("images/border01.pdf", width: 100%, height: 100%)
@@ -69,7 +58,7 @@
   - *Assembly*: x86_64, SPARC, MIPS, Z80, 6502
   - *OS*: Linux (RHEL, Debian, etc.), FreeBSD, Solaris, VMS, Windows
   - *Protocols & Services*: DNS, LDAP, SSH, GEMINI, HTTP, HTTPS, SMTP, POP, IMAP, GEMINI, etc.
-  - *Tools*: LaTeX, Markdown, AsciiDoc, Pandoc, Typst, Mermaid, Graphviz, PlantUML, etc.
+  - *Tools*: #LaTeX, Markdown, AsciiDoc, Pandoc, Typst, Mermaid, Graphviz, PlantUML, etc.
 
   // Experience
   #heading(level: 1)[Professional Experience]
