@@ -26,6 +26,18 @@
 #let street = "1254 Bensbrooke Dr"
 #let citystate = "Wesley Chapel, FL 33543"
 
+#let latex = {
+    set text(font: "New Computer Modern")
+    box(width: 2.55em, {
+      [L]
+      place(top, dx: 0.3em, text(size: 0.7em)[A])
+      place(top, dx: 0.7em)[T]
+      place(top, dx: 1.26em, dy: 0.22em)[E]
+      place(top, dx: 1.8em)[X]
+    })
+}
+#show "LaTeX": latex
+
 #set page(background: place(top + left, dx: 0.75em, dy: 0.25em)[
   #image("images/border01.pdf", width: 100%, height: 100%)
 ])
